@@ -1,3 +1,3 @@
 ## JavaScript Warm Up
 
-- This contains an introduction to vasic concepts in JavaScript
+- This contains an introduction to basic concepts in JavaScript
